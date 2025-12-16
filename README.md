@@ -88,7 +88,7 @@ Use Senha de App.
 Coloque o arquivo credenciais.json (Service Account) na raiz do projeto
 e compartilhe a planilha com o e-mail da Service Account
 
-▶️ Executando o Robô
+### ▶️ Executando o Robô
 python manage.py
 
 
@@ -99,6 +99,8 @@ Saída esperada:
 📦 Empresa: XYZ LTDA
 📨 Email enviado para fornecedor@email.com
 ✔ Linha marcada como ENVIADO
+
+
 
 ### 👨‍💻 Autor
 Projeto desenvolvido por Caio Agrelli
