@@ -105,6 +105,7 @@ python manage.py
 Planilha base compatível com a automação do projeto:
 https://docs.google.com/spreadsheets/d/1ymw9mmaZb5a_WAEbYO0IdSUls1d6d2EGtvFqSAZj7iA
 
+
 ## 👨‍💻 Autor
 Projeto desenvolvido por Caio Agrelli
 com foco em automação administrativa, confiabilidade e padronização institucional.
