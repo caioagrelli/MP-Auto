@@ -101,7 +101,7 @@ python manage.py
 - ✔ Linha marcada como ENVIADO
 
 ---
-### 📊 Modelo de Planilha (Google Sheets)
+## 📊 Modelo de Planilha (Google Sheets)
 Planilha base compatível com a automação do projeto:
 https://docs.google.com/spreadsheets/d/1ymw9mmaZb5a_WAEbYO0IdSUls1d6d2EGtvFqSAZj7iA
 
