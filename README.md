@@ -23,33 +23,19 @@ O **MP-Auto** é um sistema em Python desenvolvido para automatizar o envio de e
 ## 🗂️ Estrutura do Projeto
 
 MP-Auto/
-
 │
-
 ├── manage.py # Script principal (robô)
-
 ├── functions/
-
 │ ├── init.py
-
 │ ├── sheets.py # Leitura e escrita no Google Sheets
-
 │ ├── pdf.py # Geração de PDF
-
 │ ├── text.py # Textos HTML dos e-mails
-
 │ └── dependencies.py # Imports compartilhados
-
 ├── pdfs/ # PDFs gerados (IGNORADO NO GIT)
-
 ├── credenciais.json # Credenciais Google Sheets (IGNORADO)
-
 ├── .env # Variáveis sensíveis (IGNORADO)
-
 ├── .gitignore
-
 └── README.md
-
 
 ---
 
@@ -104,13 +90,14 @@ e compartilhe a planilha com o e-mail da Service Account
 python manage.py
 
 
-Saída esperada:
 
-🚀 Robô iniciado! Verificando planilha a cada 30 segundos...
-📄 Verificando: 2 Autorização de fornecimento
-📦 Empresa: XYZ LTDA
-📨 Email enviado para fornecedor@email.com
-✔ Linha marcada como ENVIADO
+### Saída esperada:
+
+- 🚀 Robô iniciado! Verificando planilha a cada 30 segundos...
+- 📄 Verificando: 2 Autorização de fornecimento
+- 📦 Empresa: XYZ LTDA
+- 📨 Email enviado para fornecedor@email.com
+- ✔ Linha marcada como ENVIADO
 
 
 
