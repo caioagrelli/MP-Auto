@@ -100,6 +100,6 @@ Saída esperada:
 📨 Email enviado para fornecedor@email.com
 ✔ Linha marcada como ENVIADO
 
-👨‍💻 Autor
+### 👨‍💻 Autor
 Projeto desenvolvido por Caio Agrelli
 com foco em automação administrativa, confiabilidade e padronização institucional.
