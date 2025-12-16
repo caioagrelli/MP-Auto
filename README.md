@@ -75,8 +75,8 @@ pip install gspread fpdf python-dotenv
 
 Crie um arquivo .env na raiz do projeto:
 
-GMAIL_USER=seu_email@gmail.com
-GMAIL_PASS=sua_senha_de_app
+- GMAIL_USER=seu_email@gmail.com
+- GMAIL_PASS=sua_senha_de_app
 
 
 ⚠️ Nunca use senha normal do Gmail
