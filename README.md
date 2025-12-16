@@ -19,7 +19,7 @@ O **MP-Auto** é um sistema em Python desenvolvido para automatizar o envio de e
 - 🧠 Tipo de e-mail definido automaticamente pela aba
 
 ---
-
+```
 ## 🗂️ Estrutura do Projeto
 MP-Auto/
 ├── manage.py                 # Script principal (robô)
@@ -37,7 +37,7 @@ MP-Auto/
 ├── .env                      # Variáveis sensíveis (IGNORADO)
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## 🧠 Lógica de Funcionamento
